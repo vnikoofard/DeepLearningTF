@@ -1,6 +1,6 @@
-# DeepLearningTF
+<center><a href="https://sites.google.com/fat.uerj.br/livia/"> <img src="./images/capa2.png"/> </a></center>
 
-<center><a href="https://sites.google.com/fat.uerj.br/livia/"> <img src="./images/capa2.png alt="Header" style="width: 800px;"/> </a></center>
+# DeepLearningTF
 
 Este repositório contém um curso rápido e prático sobre os fundamentos de Deep Learning usando TensorFlow. O curso foi baseado no programa oferecido pelo [Deep Learning Institute (DLI)](https://www.nvidia.com/pt-br/training/) da NVIDIA. No momento de montar este curso, o prgrama de embaixadores universitarios do DLI está suspenso e não há previsão de retorno. Por isso, este curso foi montado para que os alunos possam ter acesso a este conteúdo durante de oficinas e cursos oferecidos.
 
