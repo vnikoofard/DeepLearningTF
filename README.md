@@ -1,4 +1,4 @@
-<center><a href="https://sites.google.com/fat.uerj.br/livia/"> <img src="images/capa2.png alt="Header" style="width: 400px;"/> </a></center>
+<center><a href="https://sites.google.com/fat.uerj.br/livia/"> <img src="./images/capa2.png alt="Header" style="width: 400px;"/> </a></center>
 
 # DeepLearningTF
 
